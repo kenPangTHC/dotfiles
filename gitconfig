@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ken.pang@tetsuyuhealthcare.com
+	name = ken pang
